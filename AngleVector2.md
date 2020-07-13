@@ -1,4 +1,5 @@
 **Description:** A constructor to create an Angle, should only be used when setting Maximum/Minimum Angles on the [Camera](Camera.md) Object.
+
 **Type:** Constructor
 
 **Functions:**
