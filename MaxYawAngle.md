@@ -1,6 +1,6 @@
 **Property of:** [Camera](Camera.md)
 
-**Description:** Maximum camera angles on the Yaw Axis (X Axis)
+**Description:** Maximum camera angles on the Yaw Axis (Y Axis)
 
 **Type:** AngleVector2
 
