@@ -6,3 +6,4 @@ Examples of Sub-Objects would be:
 - [Enabled](Enabled.md)
 - FoV (Field of View)
 - MaxYawAngle
+- [AngleVector2](AngleVector2.md)
