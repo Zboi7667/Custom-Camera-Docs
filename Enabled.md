@@ -1,8 +1,8 @@
 **Property of:** [Camera](Camera.md)
 
-**Type:** Boolean
-
 **Description:** Indicates whether or not the Custom Camera module will be used on runtime.
+
+**Type:** Boolean
 
 Code Example:
 ```lua
