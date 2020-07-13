@@ -6,9 +6,10 @@
 
 Constructs a new AngleVector2, returns \[table: AngleA, AngleB] \[string: (AngleA, AngleB)]
 
+
 Code Example:
 ```lua
-local Camera = require(THING)
+local Camera = require(5344944185)
 Camera.MaxPitchAngle = AngleVector2.new(50,-50)
 Camera.MinYawAngle = AngleVector2.new(5,-5)
 ```
